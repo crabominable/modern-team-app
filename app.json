@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "modernuiapp",
-    "slug": "modernuiapp",
+    "name": "modernteamapp",
+    "slug": "modernteamapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
